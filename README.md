@@ -2,7 +2,7 @@
 
 ### 📊 Dataset Description
 
-This project is based on a supervised machine learning regression task where the goal is to predict house sale prices using various features related to residential properties.
+This project is based on a supervised machine learning regression task where the goal is to predict house sale prices using various features related to residential properties
 
 The dataset consists of two main files:
 
